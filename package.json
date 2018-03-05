@@ -1,0 +1,27 @@
+{
+    "name": "babel_webpack_starter",
+    "version": "1.0.0",
+    "description": "Starter pack for compiling ES6+ apps to ES5",
+    "main": "app.js",
+    "scripts": {
+        "prod": "webpack --watch --mode production",
+        "dev": "webpack --mode development",
+        "dev-server:prod": "webpack-dev-server --mode production",
+        "dev-server:dev": "webpack-dev-server --mode development"
+    },
+    "author": "Brad Traversy",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-core": "*",
+        "babel-loader": "*",
+        "babel-preset-env": "*",
+        "webpack": "*",
+        "webpack-cli": "^2.0.10",
+        "webpack-dev-server": "*"
+    },
+    "dependencies": {
+        "babel-preset-react": "^6.24.1",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0"
+    }
+}
