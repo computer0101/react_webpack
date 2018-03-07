@@ -16,12 +16,12 @@
         "babel-loader": "*",
         "babel-preset-env": "*",
         "webpack": "*",
-        "webpack-cli": "^2.0.10",
-        "webpack-dev-server": "*"
+        "webpack-cli": "*",
+        "webpack-dev-server": "*",
+        "babel-preset-react": "*"
     },
     "dependencies": {
-        "babel-preset-react": "^6.24.1",
-        "react": "^16.2.0",
-        "react-dom": "^16.2.0"
+        "react": "*",
+        "react-dom": "*"
     }
 }
