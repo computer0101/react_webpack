@@ -1,7 +1,7 @@
 {
     "name": "babel_webpack_starter",
     "version": "1.0.0",
-    "description": "Starter pack for compiling ES6+ apps to ES5",
+    "description": "Starter pack for ES6 and React",
     "main": "app.js",
     "scripts": {
         "prod": "webpack --watch --mode production",
@@ -9,7 +9,7 @@
         "dev-server:prod": "webpack-dev-server --mode production",
         "dev-server:dev": "webpack-dev-server --mode development"
     },
-    "author": "Brad Traversy",
+    "author": "Devesh Patel",
     "license": "MIT",
     "devDependencies": {
         "babel-core": "*",
