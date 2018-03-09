@@ -15,6 +15,7 @@
         "babel-core": "*",
         "babel-loader": "*",
         "babel-preset-env": "*",
+        "babel-plugin-transform-object-rest-spread": "^6.26.0",
         "webpack": "*",
         "webpack-cli": "*",
         "webpack-dev-server": "*",
