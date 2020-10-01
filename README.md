@@ -11,6 +11,7 @@ This is a simple webpack configuration to start developing REACT applications.
 
 **Note**: Most developers have moved to start building REACT application from scratch by using `create-react-app` command. If you are not familiar what that is feel free to read docs [here](https://github.com/facebook/create-react-app)
 
+
 ```
 HAPPY CODING
 HAPPY LEARNING
